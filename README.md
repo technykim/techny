@@ -4,8 +4,7 @@ This is my **first** repo.
 
 [페이스북](http://www.facebook.com/technykim)
 
-'Code 1'
-''Code 2''
-'''Code 3'''
-"Code 4"
-''''Code 5''''
+`Code 1`
+``Code 2``
+```Code 3```
+````Code 4````
